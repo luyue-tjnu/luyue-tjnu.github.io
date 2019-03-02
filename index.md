@@ -29,6 +29,10 @@ University, Suzhou, China.
 - 09/2003-06/2007 BSc: Information and Computational Science, School of Mathematical Sciences, 
 Soochow University, Suzhou, China.
 
+## Academic Experiences
+
+- 08/2017-08/2018 Postdoc: Department of Mathematics, National Taiwan Normal University, Taipei.
+
 ## Employment
 
 - 2015-     Lecturer, Tianjin Normal University, Tianjin, China.
