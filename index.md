@@ -68,7 +68,17 @@ Soochow University, Suzhou, China.
 
 ## Journal Papers
 
-- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017.
+- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs], to appear in Numerical Functional Analysis and Optimization. 
+
+- **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, DOI: 10.1080/02331934.2019.1576663. 
+
+- Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, DOI: 10.3934/jimo.2018094.
+
+- Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp/online-p/PJO/Open/vol14/pjov14n3p399-oa/index.html), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
+
+- **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Vol.19, No. 8, pp. 1355-1367, 2018.
+
+- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017. 
 
 - Jia Wu, Yi Zhang, Li-Wei Zhang and **Yue Lu**, [A sequential convex program approach to an inverse linear semidefinite programming problem](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251), Asia Pacific Journal of Operational Research, Vol. 33, No. 4, pp. 1-26, 2016. 
 
