@@ -88,7 +88,7 @@ Soochow University, Suzhou, China.
 
 - **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Vol.19, No. 8, pp. 1355-1367, 2018.
 
-- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017. 
+- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017.  ([Correction](https://link.springer.com/article/10.1007/s00186-017-0622-0))
 
 - Jia Wu, Yi Zhang, Li-Wei Zhang and **Yue Lu**, [A sequential convex program approach to an inverse linear semidefinite programming problem](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251), Asia Pacific Journal of Operational Research, Vol. 33, No. 4, pp. 1-26, 2016. 
 
