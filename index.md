@@ -18,7 +18,29 @@
 
 ## Education 
 
-- 
+- 09/2011-06/2015 PhD: Operations Research and Control Theory, School of Mathematical 
+Sciences, Dalian University of Technology, Dalian, China.
+
+Thesis: Numerical Algorithms for Matrix Optimization Problems
+
+Thesis Advisor: Professor Li-Wei Zhang
+
+- 09/2007-06/2010 MSc: Computational Mathematics, School of Mathematical Sciences, Soochow 
+University, Suzhou, PR. China.
+
+Thesis: A Retrospective Filter Trust Region Algorithm for Unconstrained 
+Optimization
+
+Thesis Advisor: Professor Zhong-Wen Chen
+
+- 09/2003-06/2007 BSc: Information and Computational Science, School of Mathematical Sciences, 
+Soochow University, Suzhou, China.
+
+## Employment
+
+- 2015- Lecturer, Tianjin Normal University, Tianjin, China.
+
+- 2010-2011 Assistant, Renai College of Tianjin University, Tianjin, China.
 
 # Research Interests
 
