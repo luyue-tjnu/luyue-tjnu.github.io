@@ -1,4 +1,4 @@
-# Welcome To Yue Lu's Homepage (卢 越) 
+# Welcome To Yue Lu's Homepage 
 
 <table border="0">
   <tr>
