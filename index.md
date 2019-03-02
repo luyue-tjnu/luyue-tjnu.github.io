@@ -1,19 +1,24 @@
-# Welcome to Yue Lu's Homepage (卢 越) 
-
-I am currently a lecture at School of Mathematical Sciences of Tianjin Normal University. I received my B.Sc. and M.Sc. in 2007 and 2010 from Soochow University, respectively. In fall of 2011, I become a Ph.D Candidate in Dalian University of Technology, where I spent four years with Prof. Liwei Zhang in Operations Research and Control Theory. 
-
 <table border="0">
   <tr>
     <td width="75%">
+      <p><b>Yue Lu (卢 越)</b></p>
       <p><b>Lecturer</b></p>
       <p><b>School of Mathematical Sciences</b></p>
       <p><b>Tianjin Normal University</b></p>
+      <p><b>393 Binshui West Road, Xiqing District, Tianjin</b></p> 
+      <p><b>Tianjin 300387, China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      ![证件照](/zhengjianzhao.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">
     </td>
   </tr>
 </table>
+
+# Curriculum Vitae 
+
+## Education 
+
+- 
 
 # Research Interests
 
