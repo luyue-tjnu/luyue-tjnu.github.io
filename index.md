@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <td width="75%"》
+    <td width="75%">
       <p><b>Lecturer</b></p>
       <p><b>School of Mathematical Sciences</b></p>
       <p><b>Tianjin Normal University</b></p>
@@ -40,6 +40,14 @@ Soochow University, Suzhou, China.
 - Conic Programming 
 - Matrix Optimization Theory
 - Numerical Algorithms
+
+# Research Funding
+
+- 01/2017-12/2019 Principal Investigator, National Natural Science Foundation of China (No. 11601389)
+
+- 01/2016-12/2018 Principal Investigator, Doctoral Foundation of Tianjin Normal University (No. 52XB1513)
+ 
+- 01/2014-12/2016 Participant, National Natural Science Foundation of China (No. 11301049)
 
 # Publications
 
