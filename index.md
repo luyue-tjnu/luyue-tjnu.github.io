@@ -24,30 +24,42 @@
 Sciences, Dalian University of Technology, Dalian, China.
 
 - 09/2007-06/2010 MSc: Computational Mathematics, School of Mathematical Sciences, Soochow 
-University, Suzhou, PR. China.
+University, Suzhou, China.
 
 - 09/2003-06/2007 BSc: Information and Computational Science, School of Mathematical Sciences, 
 Soochow University, Suzhou, China.
 
 ## Employment
 
-- 2015- Lecturer, Tianjin Normal University, Tianjin, China.
+- 2015-     Lecturer, Tianjin Normal University, Tianjin, China.
 
 - 2010-2011 Assistant, Renai College of Tianjin University, Tianjin, China.
 
-# Research Interests
+## Research Interests
 
 - Conic Programming 
 - Matrix Optimization Theory
 - Numerical Algorithms
 
-# Research Funding
+## Research Funding
 
 - 01/2017-12/2019 Principal Investigator, National Natural Science Foundation of China (No. 11601389)
 
 - 01/2016-12/2018 Principal Investigator, Doctoral Foundation of Tianjin Normal University (No. 52XB1513)
  
 - 01/2014-12/2016 Participant, National Natural Science Foundation of China (No. 11301049)
+
+## Teaching Interests
+
+- Advanced Mathematics I/II
+
+- Nonlinear Programming
+
+- Operations Research
+
+- C Language Programming
+
+
 
 # Publications
 
