@@ -8,6 +8,7 @@
       <p><b>Tianjin Normal University</b></p>
       <p><b>393 Binshui West Road, Xiqing District, Tianjin</b></p> 
       <p><b>Tianjin 300387, China</b></p>
+      <p><b>Email：jinjin403@sina.com</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
