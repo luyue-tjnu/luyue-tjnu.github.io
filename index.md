@@ -43,7 +43,7 @@ Soochow University, Suzhou, China.
 
 - 09/2018-12/2022 Principal Investigator, National Natural Science Foundation of China (No. 11871372)
 
-- 04/2018-03/2021 Principal Investigator, Tianjin Applied Basic Research Project （No. 18JCYBJC16600）
+- 04/2018-03/2021 Principal Investigator, Tianjin Applied Basic Research Project (No. 18JCYBJC16600)
 
 - 01/2017-12/2019 Principal Investigator, National Natural Science Foundation of China (No. 11601389)
 
