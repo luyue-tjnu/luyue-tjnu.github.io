@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Lecturer</b></p>
+      <p><b>Yue Lu</b></p>
       <p><b>School of Mathematical Sciences</b></p>
       <p><b>Tianjin Normal University</b></p>
       <p><b>393 Binshui West Road, Xiqing District, Tianjin</b></p> 
