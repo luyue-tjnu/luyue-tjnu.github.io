@@ -69,16 +69,22 @@ Soochow University, Suzhou, China.
 
 ## Journal Papers
 
-- **Yue Lu**, Yingen Ge and Liwei Zhang, [An alternating direction method for solving a class of inverse semi-definite quadratic programming problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317), Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.
+- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017.
 
-- Robert Ebihart Msigwa, **Yue Lu**, Xiantao Xiao and Liwei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
+- Jia Wu, Yi Zhang, Li-Wei Zhang and **Yue Lu**, [A sequential convex program approach to an inverse linear semidefinite programming problem](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251), Asia Pacific Journal of Operational Research, Vol. 33, No. 4, pp. 1-26, 2016. 
 
-- **Yue Lu** and Liwei Zhang, [The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem](https://link.springer.com/article/10.1007/s10589-015-9757-1), Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.  
+- **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [An alternating direction method for solving a class of inverse semi-definite quadratic programming problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317), Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.
 
-- **Yue Lu**, Jia Wu and Liwei Zhang, [A smoothing majorization method for l22 -lpp matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods and Software, Vol. 30, No. 4, pp. 1-24, 2014.
+- Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, pp. 1-17, 2015.
 
-- **Yue Lu**, Jihong Zhang and Liwei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
+- Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
 
-- **Yue Lu** and Zhongwen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
+- **Yue Lu** and Li-Wei Zhang, [The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem](https://link.springer.com/article/10.1007/s10589-015-9757-1), Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.  
+
+- **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l22 -lpp matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods and Software, Vol. 30, No. 4, pp. 1-24, 2015.
+
+- **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
+
+- **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
 
 
