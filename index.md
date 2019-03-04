@@ -106,3 +106,4 @@
 - **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
 
 - **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
+
