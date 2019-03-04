@@ -91,7 +91,7 @@ Soochow University, Suzhou, China.
 
 - Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, DOI: 10.3934/jimo.2018094.
 
-- Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp/online-p/PJO/Open/vol14/pjov14n3p399-oa/index.html), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
+- Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
 
 - **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Vol.19, No. 8, pp. 1355-1367, 2018.
 
