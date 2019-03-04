@@ -1,13 +1,15 @@
-# 卢越的个人主页 
+# Welcome To Yue Lu's Homepage 
 
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>卢越</b></p>
-      <p><b>天津师范大学, 数学科学学院</b></p>
-      <p><b>天津市西青区宾水西道393号, 300387</b></p> 
-      <p><b>邮箱：jinjin403@sina.com</b></p>
-      <p><b>英文主页: https://luyue-tjnu.github.io/index</b></p>
+      <p><b>Yue Lu</b></p>
+      <p><b>School of Mathematical Sciences</b></p>
+      <p><b>Tianjin Normal University</b></p>
+      <p><b>393 Binshui West Road, Xiqing District, Tianjin</b></p> 
+      <p><b>Tianjin 300387, China</b></p>
+      <p><b>Email：jinjin403@sina.com</b></p>
+      <p><b>Chinese Version Homepage: https://luyue-tjnu.github.io/index</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
@@ -15,55 +17,59 @@
   </tr>
 </table>
 
-# 个人简历 
+# Curriculum Vitae 
 
-## 教育经历 
+## Education 
 
-- 09/2011-06/2015 博士研究生: 运筹学与控制论, 大连理工大学数学科学学院.
+- 09/2011-06/2015 PhD: Operations Research and Control Theory, School of Mathematical 
+Sciences, Dalian University of Technology, Dalian, China.
 
-- 09/2007-06/2010 硕士研究生: 计算数学, 苏州大学数学科学学院.
+- 09/2007-06/2010 MSc: Computational Mathematics, School of Mathematical Sciences, Soochow 
+University, Suzhou, China.
 
-- 09/2003-06/2007 本科: 信息与计算科学, 苏州大学数学科学学院.
+- 09/2003-06/2007 BSc: Information and Computational Science, School of Mathematical Sciences, 
+Soochow University, Suzhou, China.
 
-## 学术经历
+## Academic Experiences
 
-- 08/2017-08/2018 博士后: 台湾师范大学理学院数学系
+- 08/2017-08/2018 Postdoc: Department of Mathematics, National Taiwan Normal University, Taipei.
 
-## 工作经历
+## Employment
 
-- 2015-     讲师, 天津师范大学数学科学学院
+- 2015-     Lecturer, Tianjin Normal University, Tianjin, China.
 
-## 研究兴趣
+## Research Interests
 
-- 锥优化 
-- 矩阵优化
-- 数值算法
+- Conic Programming 
+- Matrix Optimization Theory
+- Numerical Algorithms
 
-## 研究基金
+## Research Funding
 
-- 09/2018-12/2022 项目参与人, 国家自然科学基金-面上基金 (No. 11871372)
+- 09/2018-12/2022 Participant, National Natural Science Foundation of China (No. 11871372)
 
-- 04/2018-03/2021 项目参与人, 天津市应用基础研究项目-面上基金 (No. 18JCYBJC16600)
+- 04/2018-03/2021 Participant, Tianjin Applied Basic Research Project (No. 18JCYBJC16600)
 
-- 01/2017-12/2019 项目负责人, 国家自然科学基金-青年基金 (No. 11601389)
+- 01/2017-12/2019 Principal Investigator, National Natural Science Foundation of China (No. 11601389)
 
-- 01/2016-12/2018 项目负责人, 天津师范大学博士基金 (No. 52XB1513)
+- 01/2016-12/2018 Principal Investigator, Doctoral Foundation of Tianjin Normal University (No. 52XB1513)
  
-- 01/2014-12/2016 项目参与人, 国家自然科学基金-青年基金 (No. 11301049)
+- 01/2014-12/2016 Participant, National Natural Science Foundation of China (No. 11301049)
 
-## 教授课程
+## Teaching Interests
 
-- 高等数学 I/II
+- Advanced Mathematics I/II
 
-- 非线性规划
+- Nonlinear Programming
 
-- 运筹学
+- Operations Research
 
-- C语言
+- C Language Programming
 
-# 科研文章
 
-## 工作文章
+# Publications
+
+## Working Papers
 
 - Chieu Thanh Nguyen, Jan Harold Alcantara, **Yue Lu** and Jein-Shan Chen, Penalty and barrier methods for second-order cone programming, submitted
 
@@ -77,7 +83,7 @@
 
 - **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions of two core non-symmetric cones, submitted
 
-## 发表文章
+## Journal Papers
 
 - **Yue Lu**, Jein-Shan Chen and Ning Zhang, No gap second-order optimality conditions for circular conic programs, to appear in Numerical Functional Analysis and Optimization. 
 
@@ -106,3 +112,4 @@
 - **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
 
 - **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
+
