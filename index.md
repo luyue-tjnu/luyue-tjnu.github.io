@@ -9,7 +9,7 @@
       <p><b>393 Binshui West Road, Xiqing District, Tianjin</b></p> 
       <p><b>Tianjin 300387, China</b></p>
       <p><b>Email：jinjin403@sina.com</b></p>
-      <p><b>Chinese Version Homepage: (https://luyue-tjnu.github.io/index2)</b></p>
+      <p><b>Chinese Version Homepage: https://luyue-tjnu.github.io/index2</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
