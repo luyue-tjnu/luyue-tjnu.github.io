@@ -107,3 +107,21 @@
 
 - **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
 
+## 学术活动
+
+<table border="0">
+  <caption>学术活动</caption>
+  <tr>
+    <th>参会时间</th>
+    <th>参会地点</th>
+    <th>承办单位</th>
+    <th>会议名称</th>
+  </tr>
+  <tr>
+    <th>2014-07-26至2014-08-01</th>
+    <th>上海</th>
+    <th>上海大学理学院数学系</th>
+    <th>2014年全国"大数据优化模型与算法"高级讲习班</th>
+  </tr> 
+</table>
+
