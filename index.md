@@ -59,8 +59,6 @@
 
 - 运筹学
 
-- C语言
-
 # 科研文章
 
 ## 工作文章
@@ -87,7 +85,7 @@
 
 - Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
 
-- **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Vol.19, No. 8, pp. 1355-1367, 2018.
+- **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.
 
 - Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017.  ([Correction](https://link.springer.com/article/10.1007/s00186-017-0622-0))
 
