@@ -72,8 +72,6 @@ Soochow University, Suzhou, China.
 
 - **Yue Lu** and Jein-Shan Chen, Smooth analysis on cone function associated with ellipsoidal cone, submitted
 
-- **Yue Lu** and Jein-Shan Chen, The variational geometry, projection expression and decomposition associated with ellipsoidal cones, submitted
-
 - Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
 - Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, submitted
@@ -81,6 +79,8 @@ Soochow University, Suzhou, China.
 - **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions of two core non-symmetric cones, submitted
 
 ## Journal Papers
+
+- **Yue Lu** and Jein-Shan Chen, The variational geometry, projection expression and decomposition associated with ellipsoidal cones, to appear in Journal of Nonlinear and Convex Analysis.
 
 - **Yue Lu**, Jein-Shan Chen and Ning Zhang, No gap second-order optimality conditions for circular conic programs, to appear in Numerical Functional Analysis and Optimization. 
 
