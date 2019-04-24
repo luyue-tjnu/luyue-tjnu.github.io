@@ -77,7 +77,7 @@
 
 - **Yue Lu** and Jein-Shan Chen, The variational geometry, projection expression and decomposition associated with ellipsoidal cones, to appear in Journal of Nonlinear and Convex Analysis.
 
-- **Yue Lu**, Jein-Shan Chen and Ning Zhang, No gap second-order optimality conditions for circular conic programs, to appear in Numerical Functional Analysis and Optimization. 
+- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, DOI: 10.1080/01630563.2018.1552965. 
 
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, DOI: 10.1080/02331934.2019.1576663. 
 
