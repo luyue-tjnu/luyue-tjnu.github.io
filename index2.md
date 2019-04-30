@@ -86,7 +86,7 @@ Soochow University, Suzhou, China.
 
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, DOI: 10.1080/02331934.2019.1576663. 
 
-- Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, DOI: 10.3934/jimo.2018094.
+- Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](https://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.
 
 - Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
 
