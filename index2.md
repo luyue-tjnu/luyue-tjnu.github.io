@@ -41,7 +41,9 @@ Soochow University, Suzhou, China.
 ## Research Interests
 
 - Conic Programming 
+
 - Matrix Optimization Theory
+
 - Numerical Algorithms
 
 ## Research Funding
@@ -63,6 +65,16 @@ Soochow University, Suzhou, China.
 - Nonlinear Programming
 
 - Operations Research
+
+- C Programming
+
+## Memberships
+
+- Member of China Operational Research Society
+
+- Member of Tianjin Mathematics Association
+
+- Reviewer of Mathematical Reviews
 
 # Publications
 
