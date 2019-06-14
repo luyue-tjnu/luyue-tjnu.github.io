@@ -94,7 +94,7 @@
 
 - Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, submitted
 
-- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions of two core non-symmetric cones, submitted
+- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions with respect to two core non-symmetric cones, submitted
 
 ## 发表文章
 
