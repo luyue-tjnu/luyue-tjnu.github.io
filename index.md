@@ -98,7 +98,7 @@
 
 ## 发表文章
 
-- **Yue Lu** and Jein-Shan Chen, The variational geometry, projection expression and decomposition associated with ellipsoidal cones, Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. , 2019.
+- **Yue Lu** and Jein-Shan Chen, [The variational geometry, projection expression and decomposition associated with ellipsoidal cones](http://www.ybook.co.jp), Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.
 
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, Vol.68, No. 6, pp. 1075-1105, 2019.
 
