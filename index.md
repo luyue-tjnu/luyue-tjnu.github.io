@@ -100,17 +100,17 @@
 
 ## 发表文章
 
+- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
+
 - Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](https://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.
 
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, Vol.68, No. 6, pp. 1075-1105, 2019.
 
 - **Yue Lu** and Jein-Shan Chen, [The variational geometry, projection expression and decomposition associated with ellipsoidal cones](http://www.ybook.co.jp), Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.
 
-- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
+- **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.
 
 - Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
-
-- **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.
 
 - Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 1-38, 2017.  ([Correction](https://link.springer.com/article/10.1007/s00186-017-0622-0))
 
