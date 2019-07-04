@@ -100,9 +100,9 @@
 
 - Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](https://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.
 
-- **Yue Lu** and Jein-Shan Chen, [The variational geometry, projection expression and decomposition associated with ellipsoidal cones](http://www.ybook.co.jp), Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.
-
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, Vol.68, No. 6, pp. 1075-1105, 2019.
+
+- **Yue Lu** and Jein-Shan Chen, [The variational geometry, projection expression and decomposition associated with ellipsoidal cones](http://www.ybook.co.jp), Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.
 
 - **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
 
@@ -141,7 +141,6 @@
       2019/07/07</th>
     <th>吉林大学</th>
     <th>数据驱动的优化方法与应用研讨会</th>
-  </tr></th>
   </tr>
   <tr>
     <th>2019/04/18-
