@@ -65,7 +65,7 @@
 
 ## 主要荣誉
 
-- 学术论文A space decomposition scheme for maximum eigenvalue functions and its applications获得辽宁省自然科学学术成果奖三等奖 
+- 2018年9月参与撰写的学术论文A space decomposition scheme for maximum eigenvalue functions and its applications荣获辽宁省自然科学学术成果奖三等奖 
 
 - 2017年7月荣获第二届天津市数学会青年学术奖三等奖
 
