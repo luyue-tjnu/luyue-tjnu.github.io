@@ -92,13 +92,13 @@ Soochow University, Suzhou, China.
 
 ## Journal Papers
 
+- Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](https://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.
+
 - **Yue Lu** and Jein-Shan Chen, [The variational geometry, projection expression and decomposition associated with ellipsoidal cones](http://www.ybook.co.jp), Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.
 
 - **Yue Lu**, Ming Huang, Yi Zhang and Jian Gu, [A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20), Optimization, Vol.68, No. 6, pp. 1075-1105, 2019.
 
-- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019. 
-
-- Qing-Song Duan, Meng-Wei Xu, **Yue Lu** and Li-Wei Zhang, [A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems](https://www.aimsciences.org/article/doi/10.3934/jimo.2018094), Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.
+- **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
 
 - Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
 
@@ -110,13 +110,13 @@ Soochow University, Suzhou, China.
 
 - **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [An alternating direction method for solving a class of inverse semi-definite quadratic programming problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317), Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.
 
-- Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, pp. 1-17, 2015.
-
-- Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
-
 - **Yue Lu** and Li-Wei Zhang, [The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem](https://link.springer.com/article/10.1007/s10589-015-9757-1), Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.  
 
+- Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, pp. 1-17, 2015.
+
 - **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l22 -lpp matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods and Software, Vol. 30, No. 4, pp. 1-24, 2015.
+
+- Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
 
 - **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
 
