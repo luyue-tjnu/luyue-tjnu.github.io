@@ -86,11 +86,12 @@ Soochow University, Suzhou, China.
 
 - Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
-- Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, submitted
-
-- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions with respect to two core non-symmetric cones, submitted
 
 ## Journal Papers
+
+- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions with respect to two core non-symmetric cones, appear in Journal of Global Optimization, 2019.
+
+- Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, to appear in Calcolo, 2019.
 
 - **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
 
