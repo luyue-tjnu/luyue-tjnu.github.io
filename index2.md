@@ -115,7 +115,7 @@ Soochow University, Suzhou, China.
 
 - Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, pp. 1-17, 2015.
 
-- **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l22 -lpp matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods and Software, Vol. 30, No. 4, pp. 1-24, 2015.
+- **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l(2)(2)-l(p)(p) matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods and Software, Vol. 30, No. 4, pp. 1-24, 2015.
 
 - Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
 
