@@ -94,11 +94,12 @@
 
 - Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
-- Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, submitted
-
-- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions with respect to two core non-symmetric cones, submitted
 
 ## 发表文章
+
+- Cai-Ying Wu, Jia-Ming Zhan, **Yue Lu** and Jein-Shan Chen, Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm, to appear in Calcolo, 2019.
+
+- **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, The decompositions with respect to two core non-symmetric cones, appear in Journal of Global Optimization, 2019.
 
 - **Yue Lu**, Jein-Shan Chen and Ning Zhang, [No gap second-order optimality conditions for circular conic programs](https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965), Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.
 
@@ -137,6 +138,12 @@
     <th>参会时间</th>
     <th>承办单位</th>
     <th>会议名称</th>
+  </tr>
+   <tr>
+    <th>2019/10/11-
+      2019/10/13</th>
+    <th>河北工业大学</th>
+    <th>大数据时代的优化方法与应用研讨会</th>
   </tr>
   <tr>
     <th>2019/08/25-
