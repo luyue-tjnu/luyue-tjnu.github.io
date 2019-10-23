@@ -48,8 +48,6 @@ Soochow University, Suzhou, China.
 
 - Numerical Algorithms
 
-- C Language Programming
-
 ## Research Funding
 
 - 09/2018-12/2022 Participant, Fast blind reconstruction algorithms for ptychographic diffraction
@@ -73,7 +71,7 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 - Operations Research
 
-- C Programming
+- C Language Programming
 
 ## Memberships
 
