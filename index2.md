@@ -21,22 +21,24 @@
 
 ## Education 
 
-- 09/2011-06/2015 PhD: Operations Research and Control Theory, School of Mathematical 
+- 09/2011-06/2015 PhD, Operations Research and Control Theory, School of Mathematical 
 Sciences, Dalian University of Technology, Dalian, China.
 
-- 09/2007-06/2010 MSc: Computational Mathematics, School of Mathematical Sciences, Soochow 
+- 09/2007-06/2010 MSc, Computational Mathematics, School of Mathematical Sciences, Soochow 
 University, Suzhou, China.
 
-- 09/2003-06/2007 BSc: Information and Computational Science, School of Mathematical Sciences, 
+- 09/2003-06/2007 BSc, Information and Computational Science, School of Mathematical Sciences, 
 Soochow University, Suzhou, China.
 
 ## Academic Experiences
 
-- 08/2017-08/2018 Postdoc: Department of Mathematics, National Taiwan Normal University, Taipei.
+- 08/2017-08/2018 Postdoc: Department of Mathematics, National Taiwan Normal University, Taipei
 
 ## Employment
 
-- 2015-     Lecturer, Tianjin Normal University, Tianjin, China.
+- 2015-           Lecturer, Tianjin Normal University, Tianjin, China.
+
+- 08/2010-06/2011 Assistant, Tianjin University Tianjin University RenAi College, China.
 
 ## Research Interests
 
@@ -46,17 +48,22 @@ Soochow University, Suzhou, China.
 
 - Numerical Algorithms
 
+- C Language Programming
+
 ## Research Funding
 
-- 09/2018-12/2022 Participant, National Natural Science Foundation of China (No. 11871372)
+- 09/2018-12/2022 Participant, Fast blind reconstruction algorithms for ptychographic diffraction
+imaging and three-dimensional imaging, National Natural Science Foundation of China (No. 11871372)
 
-- 04/2018-03/2021 Participant, Tianjin Applied Basic Research Project (No. 18JCYBJC16600)
+- 04/2018-03/2021 Participant, Sparse-representation promoted research on fast phase retrieval imaging algorithms, Tianjin Applied Basic Research Project (No. 18JCYBJC16600)
 
-- 01/2017-12/2019 Principal Investigator, National Natural Science Foundation of China (No. 11601389)
+- 01/2017-12/2019 Principal Investigator, Optimality theory and numerical algorithms for sparse optimization
+problems with matrix conic constraints, National Natural Science Foundation of China (No. 11601389)
 
-- 01/2016-12/2018 Principal Investigator, Doctoral Foundation of Tianjin Normal University (No. 52XB1513)
+- 01/2016-12/2018 Principal Investigator, Algorithm design of inverse matrix optimization problem, Doctoral Foundation of Tianjin Normal University (No. 52XB1513)
  
-- 01/2014-12/2016 Participant, National Natural Science Foundation of China (No. 11301049)
+- 01/2014-12/2016 Participant, Semidefinite parameterized generalized equations and mathematical
+programs with semidefinite cone equilibrium constraints, National Natural Science Foundation of China (No. 11301049)
 
 ## Teaching Interests
 
