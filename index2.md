@@ -128,6 +128,6 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 - Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
 
-- **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/EN/abstract/abstract8574.shtml), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
+- **Yue Lu**, Ji-Hong Zhang and Li-Wei Zhang, [An alternating direction numerical method for a type of inverse quadratic programming problem](http://www.ort.shu.edu.cn/CN/Y2014/V18/I2/1), OR Transaction (Chinese Version), Vol. 182, No. 2, pp. 1-16, 2014.
 
 - **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
