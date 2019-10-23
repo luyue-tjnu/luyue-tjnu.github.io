@@ -92,7 +92,7 @@
 
 - Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, submitted
 
-- Kun Liu, Yu-Xue Li, Jing-Bo Zhang, **Yue Lu** and Bin Wang, Optimality Conditions of Minimum Energy Crossing Point, submitted
+- Kun Liu, Yu-Xue Li, Jing-Bo Zhang, **Yue Lu** and Bin Wang, Optimality conditions of minimum energy crossing point, submitted
 
 - Chieu Thanh Nguyen, Jan Harold Alcantara, **Yue Lu** and Jein-Shan Chen, Penalty and barrier methods for second-order cone programming, submitted
 
