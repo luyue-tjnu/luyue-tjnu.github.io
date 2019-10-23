@@ -38,7 +38,7 @@ Soochow University, Suzhou, China.
 
 - 2015-           Lecturer, Tianjin Normal University, Tianjin, China.
 
-- 08/2010-06/2011 Assistant, Tianjin University Tianjin University RenAi College, China.
+- 08/2010-06/2011 Assistant, Tianjin University RenAi College, China.
 
 ## Research Interests
 
