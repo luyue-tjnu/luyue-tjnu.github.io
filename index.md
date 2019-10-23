@@ -7,7 +7,7 @@
       <p><b>天津师范大学, 数学科学学院</b></p>
       <p><b>天津市西青区宾水西道393号, 300387</b></p> 
       <p><b>邮箱：jinjin403@sina.com</b></p>
-      <p><b>英文主页: https://luyue-tjnu.github.io/index2</b></p>
+      <p><b>英文主页: [https://luyue-tjnu.github.io/index2](https://luyue-tjnu.github.io/index2)</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
