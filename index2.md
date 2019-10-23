@@ -83,7 +83,7 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 # Publications
 
-## 工作文章
+## Working papers
 
 - Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, submitted
 
@@ -96,7 +96,7 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 - Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
 
-## 发表文章
+## Journal papers
 
 - **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, [The decompositions with respect to two core non-symmetric cones](https://doi.org/10.1007/s10898-019-00845-3), appear in Journal of Global Optimization, 2019.
 
