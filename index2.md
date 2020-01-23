@@ -67,7 +67,7 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 - Advanced Mathematics I/II
 
-- Nonlinear Programming
+- Optimization Methods
 
 - Operations Research
 
