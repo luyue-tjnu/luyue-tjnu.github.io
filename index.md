@@ -19,90 +19,92 @@
 
 ## 教育经历 
 
-09/2011-06/2015 博士研究生, 运筹学与控制论, 大连理工大学数学科学学院
+- 2011/09-2015/06 博士研究生, 运筹学与控制论, 大连理工大学数学科学学院
 
-09/2007-06/2010 硕士研究生, 计算数学, 苏州大学数学科学学院
+- 2007/09-2010/06 硕士研究生, 计算数学, 苏州大学数学科学学院
 
-09/2003-06/2007 本科, 信息与计算科学, 苏州大学数学科学学院
+- 2003/09-2007/06 本科, 信息与计算科学, 苏州大学数学科学学院
 
 ## 学术经历
 
-08/2017-08/2018 博士后: 台湾师范大学理学院数学系
+- 2017/08-2018/08 博士后: 台湾师范大学理学院数学系
 
 ## 工作经历
 
-06/2015-        讲师, 天津师范大学数学科学学院
+- 2015/06-        讲师, 天津师范大学数学科学学院
 
-08/2010-06/2011 助教, 天津大学仁爱学院
+- 2010/08-2011/06 助教, 天津大学仁爱学院
 
 ## 研究兴趣
 
-锥优化 
+- 锥优化 
 
-矩阵优化
+- 矩阵优化
 
-数值算法
+- 数值算法
 
 ## 教学工作
 
-高等数学 I/II
+- 高等数学 I/II
 
-最优化方法
+- 最优化方法
 
-运筹学
+- 运筹学
 
-C语言程序设计
+- C语言程序设计
 
 ## 研究基金
 
-09/2018-12/2022 项目参与人, 叠层衍射成像的快速盲重建算法及其三维成像, 国家自然科学基金-面上基金 (No. 11871372)
+- 2018/09-2022/12 项目参与人, 叠层衍射成像的快速盲重建算法及其三维成像, 国家自然科学基金-面上基金 (No. 11871372)
 
-04/2018-03/2021 项目参与人, 稀疏表示驱动的相位恢复快速成像算法研究, 天津市应用基础研究项目-面上基金 (No. 18JCYBJC16600)
+- 2018/04-2021/03 项目参与人, 稀疏表示驱动的相位恢复快速成像算法研究, 天津市应用基础研究项目-面上基金 (No. 18JCYBJC16600)
 
-01/2017-12/2019 项目负责人, 稀疏矩阵锥约束优化问题的最优化理论与数值算法, 国家自然科学基金-青年基金 (No. 11601389)
+- 2017/01-2019/12 项目负责人, 稀疏矩阵锥约束优化问题的最优化理论与数值算法, 国家自然科学基金-青年基金 (No. 11601389)
 
-01/2016-12/2018 项目负责人, 逆矩阵优化问题的算法设计, 天津师范大学博士基金 (No. 52XB1513)
+- 2016/01-2018/12 项目负责人, 逆矩阵优化问题的算法设计, 天津师范大学博士基金 (No. 52XB1513)
  
-01/2014-12/2016 项目参与人, 半定参数广义方程与半定锥均衡约束数学规划问题, 国家自然科学基金-青年基金 (No. 11301049)
+- 2014/01-2016/12 项目参与人, 半定参数广义方程与半定锥均衡约束数学规划问题, 国家自然科学基金-青年基金 (No. 11301049)
 
 ## 主要荣誉
 
-2015-2019聘期考核优秀
+- 2015-2019聘期考核优秀
 
-2019年参加数学科学学院青年教师基本功竞赛获得院级三等奖
+- 2019年参加数学科学学院青年教师基本功竞赛获得院级三等奖
 
-2018年9月参与撰写的学术论文A space decomposition scheme for maximum eigenvalue functions and its applications荣获辽宁省自然科学学术成果奖三等奖 
+- 2018年9月参与撰写的学术论文A space decomposition scheme for maximum eigenvalue functions and its applications荣获辽宁省自然科学学术成果奖三等奖 
 
-2017年7月荣获第二届天津市数学会青年学术奖三等奖
+- 2017年7月荣获第二届天津市数学会青年学术奖三等奖
 
-入选2016年度天津市“131”创新型人才培养工程第三层次建议人选名单
+- 入选2016年度天津市“131”创新型人才培养工程第三层次建议人选名单
 
-2017年6月至2018年6月参加天津师范大学第15期中青年骨干教师培训班学习，获得结业证书
+- 2017年6月至2018年6月参加天津师范大学第15期中青年骨干教师培训班学习，获得结业证书
 
-2016年荣获天津师范大学优秀班主任
+- 2016年荣获天津师范大学优秀班主任
 
 ## 学术兼职
 
-中国运筹学会会员
+- 中国运筹学会会员
 
-天津数学会会员
+- 天津数学会会员
 
-Mathmatical Reviews评论员 
+- Mathmatical Reviews评论员 
+
+- SIAM会员 
 
 
 # 科研文章
 
 ## 工作文章
 
-Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, submitted
+- Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, submitted
 
-Kun Liu, Yu-Xue Li, Jing-Bo Zhang, **Yue Lu** and Bin Wang, Optimality conditions of minimum energy crossing point, submitted
+- Kun Liu, Yu-Xue Li, Jing-Bo Zhang, **Yue Lu** and Bin Wang, Optimality conditions of minimum energy crossing point, submitted
 
-Chieu Thanh Nguyen, Jan Harold Alcantara, **Yue Lu** and Jein-Shan Chen, Penalty and barrier methods for second-order cone programming, submitted
+- Chieu Thanh Nguyen, Jan Harold Alcantara, **Yue Lu** and Jein-Shan Chen, Penalty and barrier methods for second-order cone programming, submitted
 
-**Yue Lu** and Jein-Shan Chen, Smooth analysis on cone function associated with ellipsoidal cone, submitted
+- **Yue Lu** and Jein-Shan Chen, Smooth analysis on cone function associated with ellipsoidal cone, submitted
 
-Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
+- Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
 
 ## 发表文章
