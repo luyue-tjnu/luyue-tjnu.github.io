@@ -123,25 +123,25 @@
 
 - **Yue Lu** and Jein-Shan Chen, [On the self-duality and homogeneity of ellipsoidal cones](http://www.ybook.co.jp/online2/jncav19-8.html), Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.
 
-- Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
+10. Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones](http://www.ybook.co.jp), Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.
 
-- Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 453–490, 2017.  ([Correction](https://link.springer.com/article/10.1007/s00186-017-0622-0))
+9. Ming Huang, **Yue Lu**, Li-Ping Pang and Zun-Quan Xia, [A space decomposition scheme for maximum eigenvalue functions and its applications](https://link.springer.com/article/10.1007%2Fs00186-017-0579-z), Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 453–490, 2017.  ([Correction](https://link.springer.com/article/10.1007/s00186-017-0622-0))
 
-- Jia Wu, Yi Zhang, Li-Wei Zhang and **Yue Lu**, [A sequential convex program approach to an inverse linear semidefinite programming problem](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251), Asia Pacific Journal of Operational Research, Vol. 33, No. 4, 1650025, 2016. 
+8. Jia Wu, Yi Zhang, Li-Wei Zhang and **Yue Lu**, [A sequential convex program approach to an inverse linear semidefinite programming problem](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251), Asia Pacific Journal of Operational Research, Vol. 33, No. 4, 1650025, 2016. 
 
-- **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [An alternating direction method for solving a class of inverse semi-definite quadratic programming problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317), Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.
+7. **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [An alternating direction method for solving a class of inverse semi-definite quadratic programming problems](http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317), Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.
 
-- **Yue Lu** and Li-Wei Zhang, [The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem](https://link.springer.com/article/10.1007/s10589-015-9757-1), Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.  
+6. **Yue Lu** and Li-Wei Zhang, [The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem](https://link.springer.com/article/10.1007/s10589-015-9757-1), Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.  
 
-- Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, 2015.
+5. Robert Ebihart Msigwa, **Yue Lu**, Ying-En Ge and Li-Wei Zhang, [A smoothing approach for solving transportation problem with road toll pricing and capacity expansions](https://link.springer.com/article/10.1186/s13660-015-0759-4), Journal of Inequalities and Applications, 2015:237, 2015.
 
-- **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l(2)(2)-l(p)(p) matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods & Software, Vol. 30, No. 4, pp. 1-24, 2015.
+4. **Yue Lu**, Jia Wu and Li-Wei Zhang, [A smoothing majorization method for l(2)(2)-l(p)(p) matrix minimization](https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235), Optimization Methods & Software, Vol. 30, No. 4, pp. 1-24, 2015.
 
-- Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
+3. Robert Ebihart Msigwa, **Yue Lu**, Xian-Tao Xiao and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with emissions](http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135), Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.
 
-- **卢越**, 张继宏, 张立卫, [一类二次规划逆问题的交替方向数值方法](http://www.ort.shu.edu.cn/CN/Y2014/V18/I2/1), 运筹学学报, 18卷, 第2期, 1-16, 2014.
+2. **卢越**, 张继宏, 张立卫, [一类二次规划逆问题的交替方向数值方法](http://www.ort.shu.edu.cn/CN/Y2014/V18/I2/1), 运筹学学报, 18卷, 第2期, 1-16, 2014.
 
-- **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
+1. **Yue Lu** and Zhong-Wen Chen, [A retrospective filter trust region algorithm for unconstrained optimization](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637), Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.
 
 # 学术活动
 
