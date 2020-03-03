@@ -98,6 +98,8 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 ## Journal papers
 
+- Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [Construction of merit functions for ellipsoidal cone complementarity problem](http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP(revised).pdf), to appear in Pacific Journal of Optimization, 2020.
+
 - Robert Ebihart Msigwa, **Yue Lu** and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with link capacity expansion](https://www.inderscience.com/info/inarticle.php?artid=104226), International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.
 
 - **Yue Lu**, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, [The decompositions with respect to two core non-symmetric cones](https://doi.org/10.1007/s10898-019-00845-3), Journal of Global Optimization, Vol.76, No. 1, pp. 155-188, 2020.
