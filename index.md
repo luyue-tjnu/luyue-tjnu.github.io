@@ -102,8 +102,6 @@
 
 - Chieu Thanh Nguyen, Jan Harold Alcantara, **Yue Lu** and Jein-Shan Chen, Penalty and barrier methods for second-order cone programming, submitted
 
-- **Yue Lu** and Jein-Shan Chen, Smooth analysis on cone function associated with ellipsoidal cone, submitted
-
 - Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, A decomposition algorithm for the sums of the largest eigenvalues, submitted
 
 
