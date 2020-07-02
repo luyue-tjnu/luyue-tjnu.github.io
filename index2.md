@@ -96,9 +96,9 @@ programs with semidefinite cone equilibrium constraints, National Natural Scienc
 
 ## Journal papers
 
-- **Yue Lu** and Jein-Shan Chen, [Smooth analysis on cone function associated with ellipsoidal cone](http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf), to appear in Journal of Nonlinear and Convex Analysis, 2020.
-
 - Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [Construction of merit functions for ellipsoidal cone complementarity problem](http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP(revised).pdf), to appear in Pacific Journal of Optimization, 2020.
+
+- **Yue Lu** and Jein-Shan Chen, [Smooth analysis on cone function associated with ellipsoidal cone](http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf), Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.
 
 - Robert Ebihart Msigwa, **Yue Lu** and Li-Wei Zhang, [A perturbation-based approach for continuous network design problem with link capacity expansion](https://www.inderscience.com/info/inarticle.php?artid=104226), International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.
 
