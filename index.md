@@ -106,7 +106,7 @@
 
 2. Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, [A decomposition algorithm for the sums of the largest eigenvalues](https://www.tandfonline.com/doi/full/10.1080/01630563.2020.1813758), to appear in Numerical Functional Analysis and Optimization, 2020.
 
-3. Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [Construction of merit functions for ellipsoidal cone complementarity problem](http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP(revised).pdf), to appear in Pacific Journal of Optimization, 2020.
+3. Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [Construction of merit functions for ellipsoidal cone complementarity problem](http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf), Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.
 
 4. **Yue Lu** and Jein-Shan Chen, [Smooth analysis on cone function associated with ellipsoidal cone](http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf), Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.
 
