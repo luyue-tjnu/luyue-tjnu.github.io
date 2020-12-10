@@ -66,7 +66,5 @@ School of Mathematical Sciences, Soochow University, Suzhou, China</p>
 <div id="footer-text">
 </div>
 </div>
-</td>
-</tr>
-</table>
-</body>
+  
+  
