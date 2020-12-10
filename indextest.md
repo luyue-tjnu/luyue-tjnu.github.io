@@ -24,7 +24,7 @@
 <h1>Yue Lu</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="zhengjianzhao.jpg" alt="450" width="300px" height="Yue Lu" />&nbsp;</td>
+<img src="zhengjianzhao.jpg" alt="450" width="300px" height="300px" />&nbsp;</td>
 <td align="left"><p>Yue Lu<br />
 <a href="http://sxkx.tjnu.edu.cn/">School of Mathematical Sciences</a><br />
 <a href="http://www.tjnu.edu.cn/">Tianjin Normal University</a></p>
