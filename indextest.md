@@ -13,7 +13,6 @@
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
 <div class="menu-item"><a href="bio.html">Biography</a></div>
 <div class="menu-category">Research</div>
-<div class="menu-item"><a href="books.html">Books</a></div>
 <div class="menu-item"><a href="papers.html">Papers</a></div>
 <div class="menu-item"><a href="software.html">Software</a></div>
 <div class="menu-category">Classes</div>
