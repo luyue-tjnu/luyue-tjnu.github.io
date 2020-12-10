@@ -26,8 +26,8 @@
 <table class="imgtable"><tr><td>
 <img src="zhengjianzhao.jpg" alt="450" width="300px" height="Yue Lu" />&nbsp;</td>
 <td align="left"><p>Yue Lu<br />
-<a href="http://cs.stanford.edu/">School of Mathematical Sciences</a><br />
-<a href="http://www.stanford.edu/">Tianjin Normal University</a></p>
+<a href="http://sxkx.tjnu.edu.cn/">School of Mathematical Sciences</a><br />
+<a href="http://www.tjnu.edu.cn/">Tianjin Normal University</a></p>
 </td></tr></table>
 <h2>Contact</h2>
 <p><a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 175</a> (Chair's office),
