@@ -30,8 +30,7 @@
 <a href="http://www.tjnu.edu.cn/">Tianjin Normal University</a></p>
 </td></tr></table>
 <h2>Contact</h2>
-<p><a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 175</a> (Chair's office),
-Stanford, CA 94305<br />
+<p>393 Binshui West Road, Xiqing District, Tianjin, 300387, China<br />
 <a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 254</a>,
 Stanford, CA 94305<br />
 Tel: (650) 723-0002<br />
