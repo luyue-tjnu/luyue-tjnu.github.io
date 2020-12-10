@@ -33,7 +33,7 @@
 <h1>Yue Lu</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="stephen_boyd3.jpg" alt="450" width="300px" height="zhengjianzhao" />&nbsp;</td>
+<img src="stephen_boyd3.jpg" alt="450" width="300px" height="zhengjianzhao.jpg" />&nbsp;</td>
 <td align="left"><p>Stephen P. Boyd<br />
 Chair, <a href="http://www-ee.stanford.edu/">Department of Electrical Engineering</a><br />
 Samsung Professor in the <a href="http://soe.stanford.edu">School of Engineering</a><br />
