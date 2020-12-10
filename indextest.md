@@ -33,7 +33,7 @@
 <p>393 Binshui West Road, Xiqing District, Tianjin, 300387, China<br />
 Tel: +86-22-2376-6366<br />
 <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
-<a href="http://sxkx.tjnu.edu.cn/info/1113/1629.htm">http://sxkx.tjnu.edu.cn/info/1113/1629.htm</a></p>
+<a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/index2</a></p>
 <h2>Schedule</h2>
 <p>Teaching schedule 2020&ndash;21:
 <a href="https://stanford.edu/class/engr108/">ENGR108</a> (formerly known as 
