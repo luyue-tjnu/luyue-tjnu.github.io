@@ -31,12 +31,9 @@
 </td></tr></table>
 <h2>Contact</h2>
 <p>393 Binshui West Road, Xiqing District, Tianjin, 300387, China<br />
-<a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 254</a>,
-Stanford, CA 94305<br />
-Tel: (650) 723-0002<br />
-Fax: (650) 723-8473<br />
-<a href="mailto:boyd@stanford.edu">boyd@stanford.edu</a><br />
-<a href="http://www.stanford.edu/~boyd/">http://www.stanford.edu/~boyd/</a></p>
+Tel: +86-22-2376-6366<br />
+<a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
+<a href="http://sxkx.tjnu.edu.cn/info/1113/1629.htm">http://sxkx.tjnu.edu.cn/info/1113/1629.htm</a></p>
 <h2>Schedule</h2>
 <p>Teaching schedule 2020&ndash;21:
 <a href="https://stanford.edu/class/engr108/">ENGR108</a> (formerly known as 
