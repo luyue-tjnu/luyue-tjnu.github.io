@@ -49,7 +49,7 @@ Tianjin Normal University</p>
 <li><p><b>Postdoc</b> (2017.9-2018.8)<br />
 Department of Mathematics, National Taiwan Normal University</p>
 </li>
-<li><p><b>Assistant</b>(2010.8-2011.6)<br />
+<li><p><b>Assistant</b>(2010.8-2011.8)<br />
 Tianjin University RenAi College</p>
 </li>
 <li><p><b>Ph.D in Operations Research and Control Theory</b> (2011.9-2015.6)<br />
