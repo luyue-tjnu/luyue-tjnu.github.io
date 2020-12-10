@@ -10,7 +10,7 @@
 <tr valign="top">
 <td id="layout-menu">
 <div class="menu-category">Yue Lu</div>
-<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="indextest.html" class="current">Home</a></div>
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
 <div class="menu-item"><a href="bio.html">Biography</a></div>
 <div class="menu-category">Research</div>
@@ -33,7 +33,7 @@
 <p>393 Binshui West Road, Xiqing District, Tianjin, 300387, China<br />
 Tel: +86-22-2376-6366<br />
 <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
-<a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/index2</a></p>
+<a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
 <h2>Schedule</h2>
 <p>Teaching schedule 2020&ndash;21:
 <a href="https://stanford.edu/class/engr108/">ENGR108</a> (formerly known as 
