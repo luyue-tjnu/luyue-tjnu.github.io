@@ -39,20 +39,34 @@ Tel: +86-22-2376-6366<br />
 <a href="https://ee103.stanford.edu">EE103/CME103</a>) 
 (Autumn).<br />
 
+<h2>Summary of my research</h2>
+<p>My research interest lies in the broad field of large scale computational optimization  with  applications in science and engineering. The size and complexity of these problems have posed significant challenges to high performance computing. My research focuses on the study of the theoretical and computational aspects of both general optimization algorithms and special purpose methods that take advantage of problem structure.</p>
 
-Office hours (Autumn quarter): Thursdays 9-10am.</p>
-<h2>Executive assistant to the chair</h2>
-<p>Marsha Dillon<br />
-<a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 174</a>, 
-Stanford, CA 94305<br />
-(650) 723-6471<br />
-<a href="mailto:marshad@stanford.edu">marshad@stanford.edu</a></p>
-<h2>Faculty administrator</h2>
-<p>Suzanne Sims<br />
-<a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 259</a>,
-Stanford, CA 94305<br />
-(650) 721-2273<br />
-<a href="mailto:suzanne.sims@stanford.edu">suzanne.sims@stanford.edu</a></p>
+
+<h2>Research experience &amp; Education</h2>
+<ul>
+<li><p><b>Lecturer</b><br />
+Tianjin Normal University, Tianjin, China</p>
+</li>
+<li><p><b>Assistant</b>(2010.8-2011.6)<br />
+Tianjin University RenAi College, China</p>
+</li>
+<li><p><b>Postdoc</b> (2017.9-2018.8)<br />
+Department of Mathematics, National Taiwan Normal University, Taipei</p>
+</li>
+<li><p><b>Ph.D in Operations Research and Control Theory</b> (2011.9-2015.6)<br />
+School of Mathematical Sciences, Dalian University of Technology, Dalian, China</p>
+</li>
+<li><p><b>M.S in Computational Mathematics</b> (2007.9-2010.6)<br />
+School of Mathematical Sciences, Soochow University, Suzhou, China</p>
+</li>
+<li><p><b>B.S in Information and Computational Science</b> (2003.9-2007.6)<br />
+School of Mathematical Sciences, Soochow University, Suzhou, China</p>
+</li>
+</ul>
+
+
+
 <div id="footer">
 <div id="footer-text">
 Page generated 2020-09-29 08:47:12 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
