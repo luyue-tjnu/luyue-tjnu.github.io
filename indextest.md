@@ -6,12 +6,6 @@
 <title>Stephen P. Boyd</title>
 </head>
 <body>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2779251-1";
-urchinTracker();
-</script>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
