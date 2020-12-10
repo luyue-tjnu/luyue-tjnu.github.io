@@ -25,19 +25,9 @@
 </div>
 <table class="imgtable"><tr><td>
 <img src="zhengjianzhao.jpg" alt="450" width="300px" height="Yue Lu" />&nbsp;</td>
-<td align="left"><p>Stephen P. Boyd<br />
-Chair, <a href="http://www-ee.stanford.edu/">Department of Electrical Engineering</a><br />
-Samsung Professor in the <a href="http://soe.stanford.edu">School of Engineering</a><br />
-Professor, <a href="http://isl.stanford.edu/">Information Systems Laboratory</a>,
-<a href="http://www-ee.stanford.edu/">Department of Electrical Engineering</a><br />
-Professor (by courtesy), 
-<a href="http://www.stanford.edu/dept/MSandE/">Department of Management Science and 
-Engineering</a><br />
-Professor (by courtesy), 
-<a href="http://cs.stanford.edu/">Department of Computer Science</a><br />
-<a href="http://icme.stanford.edu/">Institute for Computational and Mathematical
-Engineering</a><br />
-<a href="http://www.stanford.edu/">Stanford University</a></p>
+<td align="left"><p>Yue Lu<br />
+<a href="http://cs.stanford.edu/">School of Mathematical Sciences</a><br />
+<a href="http://www.stanford.edu/">Tianjin Normal University</a></p>
 </td></tr></table>
 <h2>Contact</h2>
 <p><a href="http://campus-map.stanford.edu/index.cfm?ID=04-030">Packard 175</a> (Chair's office),
