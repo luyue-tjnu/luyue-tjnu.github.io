@@ -42,11 +42,8 @@ Tel: +86-22-2376-6366<br />
 <a href="https://stanford.edu/class/engr108/">ENGR108</a> (formerly known as 
 <a href="https://ee103.stanford.edu">EE103/CME103</a>) 
 (Autumn).<br />
-
 <h2>Summary of my research</h2>
 <p>My research interest lies in the broad field of large scale computational optimization  with  applications in science and engineering. The size and complexity of these problems have posed significant challenges to high performance computing. My research focuses on the study of the theoretical and computational aspects of both general optimization algorithms and special purpose methods that take advantage of problem structure.</p>
-
-
 <h2>Research experience &amp; Education</h2>
 <ul>
 <li><p><b>Lecturer</b><br />
@@ -70,5 +67,10 @@ School of Mathematical Sciences, Soochow University, Suzhou, China</p>
 </ul>
 <div id="footer">
 <div id="footer-text">
+</div>
+</div>
+</td>
+</tr>
+</table>
 </body>
 </html>
