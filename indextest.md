@@ -43,23 +43,23 @@ Tel: +86-22-2376-6366<br />
 <p> </p>
 <h2>Research experience &amp; Education</h2>
 <ul>
-<li><p><b>Lecturer</b><br />
-Tianjin Normal University, Tianjin, China</p>
+<li><p><b>Lecturer</b> (2015.6-  )<br />
+Tianjin Normal University</p>
 </li>
 <li><p><b>Postdoc</b> (2017.9-2018.8)<br />
-Department of Mathematics, National Taiwan Normal University, Taipei</p>
+Department of Mathematics, National Taiwan Normal University</p>
 </li>
 <li><p><b>Assistant</b>(2010.8-2011.6)<br />
-Tianjin University RenAi College, China</p>
+Tianjin University RenAi College</p>
 </li>
 <li><p><b>Ph.D in Operations Research and Control Theory</b> (2011.9-2015.6)<br />
-School of Mathematical Sciences, Dalian University of Technology, Dalian, China</p>
+School of Mathematical Sciences, Dalian University of Technology</p>
 </li>
 <li><p><b>M.S in Computational Mathematics</b> (2007.9-2010.6)<br />
-School of Mathematical Sciences, Soochow University, Suzhou, China</p>
+School of Mathematical Sciences, Soochow University</p>
 </li>
 <li><p><b>B.S in Information and Computational Science</b> (2003.9-2007.6)<br />
-School of Mathematical Sciences, Soochow University, Suzhou, China</p>
+School of Mathematical Sciences, Soochow University</p>
 </li>
 </ul>
 <div id="footer">
