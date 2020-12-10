@@ -16,24 +16,15 @@
 <div class="menu-item"><a href="books.html">Books</a></div>
 <div class="menu-item"><a href="papers.html">Papers</a></div>
 <div class="menu-item"><a href="software.html">Software</a></div>
-<div class="menu-item"><a href="people.html">People</a></div>
 <div class="menu-category">Classes</div>
 <div class="menu-item"><a href="http://stanford.edu/class/engr108/">ENGR108</a></div>
-<div class="menu-item"><a href="http://ee104.stanford.edu/">EE104</a></div>
-<div class="menu-item"><a href="http://ee263.stanford.edu/">EE263</a></div>
-<div class="menu-item"><a href="http://stanford.edu/class/ee363/">EE363</a></div>
-<div class="menu-item"><a href="http://ee364a.stanford.edu/">EE364a</a></div>
-<div class="menu-item"><a href="http://stanford.edu/class/ee364b/">EE364b</a></div>
-<div class="menu-item"><a href="http://stanford.edu/class/ee365/">EE365</a></div>
-<div class="menu-category">MOOC</div>
-<div class="menu-item"><a href="https://www.edx.org/course/convex-optimization">CVX101</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Yue Lu</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="stephen_boyd3.jpg" alt="450" width="300px" height="zhengjianzhao.jpg" />&nbsp;</td>
+<img src="zhengjianzhao.jpg" alt="450" width="300px" height="Yue Lu" />&nbsp;</td>
 <td align="left"><p>Stephen P. Boyd<br />
 Chair, <a href="http://www-ee.stanford.edu/">Department of Electrical Engineering</a><br />
 Samsung Professor in the <a href="http://soe.stanford.edu">School of Engineering</a><br />
