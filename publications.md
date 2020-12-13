@@ -20,16 +20,13 @@
 <td id="layout-content">
 <div id="toptitle">
 <h1>发表论文</h1>
-<ol>
-  <li>
-    <p>Jie Zhang, Yuping Duan, <strong>Yue Lu</strong>, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, to appear in Inverse Problems and Imaging, 2020.</p>
-  </li>
-  <li>
-    <p>Ming Huang, <strong>Yue Lu</strong>, Jin-Long Yuan and Yang Li, <a href="https://www.tandfonline.com/doi/full/10.1080/01630563.2020.1813758">A decomposition algorithm for the sums of the largest eigenvalues</a>, to appear in Numerical Functional Analysis and Optimization, 2020.</p>
-  </li>
-  <li>
-    <p>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf">Construction of merit functions for ellipsoidal cone complementarity problem</a>, Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.</p>
-  </li>
+<h2>2020</h2>
+<dl>
+<dt><a href="http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf">Construction of merit functions for ellipsoidal cone complementarity problem</a></dt>
+<dd><p>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+<dd>Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.</p></dd>
+</dl>
+
   <li>
     <p><strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf">Smooth analysis on cone function associated with ellipsoidal cone</a>, Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.</p>
   </li>
