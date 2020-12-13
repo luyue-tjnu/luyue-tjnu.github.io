@@ -4,7 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="boyd.css" type="text/css" />
-<title>Yue Lu </title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
