@@ -31,38 +31,47 @@
 <dt><a href="https://www.inderscience.com/info/inarticle.php?artid=104226">A perturbation-based approach for continuous network design problem with link capacity expansion</a></dt>
 <dd><p International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
 
+<dt><a href="https://doi.org/10.1007/s10898-019-00845-3">The decompositions with respect to two core non-symmetric cones</a></dt>
+<dd><p>Journal of Global Optimization, Vol.76, No. 1, pp. 155-188, 2020.<br><strong>Yue Lu</strong>, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi</p></dd>
 </dl>
 
-  <li>
-    <p><strong>Yue Lu</strong>, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, <a href="https://doi.org/10.1007/s10898-019-00845-3">The decompositions with respect to two core non-symmetric cones</a>, Journal of Global Optimization, Vol.76, No. 1, pp. 155-188, 2020.</p>
-  </li>
-  <li>
-    <p>Cai-Ying Wu, Jia-Ming Zhan, <strong>Yue Lu</strong> and Jein-Shan Chen, <a href="https://doi.org/10.1007/s10092-019-0340-5">Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm</a>, Calcolo, Vol.56, No. 4, Article:42, 2019.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong>, Jein-Shan Chen and Ning Zhang, <a href="https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965">No gap second-order optimality conditions for circular conic programs</a>, Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.</p>
-  </li>
-  <li>
-    <p>Qing-Song Duan, Meng-Wei Xu, <strong>Yue Lu</strong> and Li-Wei Zhang, <a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2018094">A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems</a>, Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong>, Ming Huang, Yi Zhang and Jian Gu, <a href="https://www.tandfonline.com/doi/abs/10.1080/02331934.2019.1576663?journalCode=gopt20">A nonconvex ADMM for a class of sparse inverse semidefinite quadratic programming problems</a>, Optimization, Vol.68, No. 6, pp. 1075-1105, 2019.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://www.ybook.co.jp">The variational geometry, projection expression and decomposition associated with ellipsoidal cones</a>, Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://www.ybook.co.jp/online2/jncav19-8.html">On the self-duality and homogeneity of ellipsoidal cones</a>, Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.</p>
-  </li>
-  <li>
-    <p>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones</a>, Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.</p>
-  </li>
-  <li>
-    <p>Ming Huang, <strong>Yue Lu</strong>, Li-Ping Pang and Zun-Quan Xia, <a href="https://link.springer.com/article/10.1007%2Fs00186-017-0579-z">A space decomposition scheme for maximum eigenvalue functions and its applications</a>, Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 453–490, 2017.  (<a href="https://link.springer.com/article/10.1007/s00186-017-0622-0">Correction</a>)</p>
-  </li>
-  <li>
-    <p>Jia Wu, Yi Zhang, Li-Wei Zhang and <strong>Yue Lu</strong>, <a href="https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251">A sequential convex program approach to an inverse linear semidefinite programming problem</a>, Asia Pacific Journal of Operational Research, Vol. 33, No. 4, 1650025, 2016.</p>
-  </li>
+<h2>2019</h2>
+<dl>
+<dt><a href="https://doi.org/10.1007/s10092-019-0340-5">Signal reconstruction by conjugate gradient algorithm based on smoothing ℓ1-norm</a></dt>
+<dd><p>Calcolo, Vol.56, No. 4, Article:42, 2019.<br>Cai-Ying Wu, Jia-Ming Zhan, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+
+<dt><a href="https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965">No gap second-order optimality conditions for circular conic programs</a></dt>
+<dd><p>Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.<br>Yue Lu</strong>, Jein-Shan Chen and Ning Zhang</p></dd>
+
+<dt><a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2018094">A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems</a></dt>
+<dd><p>Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.<br>Qing-Song Duan, Meng-Wei Xu, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
+
+<dt><a href="http://www.ybook.co.jp">The variational geometry, projection expression and decomposition associated with ellipsoidal cones</a></dt>
+<dd><p>Journal of Nonlinear and Convex Analysis, Vol.20, No. 4, pp. 715-738, 2019.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+</dl>
+
+<h2>2018</h2>
+<dl>
+<dt><a href="http://www.ybook.co.jp/online2/jncav19-8.html">On the self-duality and homogeneity of ellipsoidal cones</a></dt>
+<dd><p>Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+  
+<dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones</a></dt>
+<dd><p>Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.<br><strong>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+</dl>  
+
+<h2>2017</h2>
+<dl>
+<dt><a href="https://link.springer.com/article/10.1007%2Fs00186-017-0579-z">A space decomposition scheme for maximum eigenvalue functions and its applications (<a href="https://link.springer.com/article/10.1007/s00186-017-0622-0">Correction</a>)</a></dt>
+<dd><p>Mathematical Methods of Operations Research, Vol. 85, No. 3, pp. 453–490, 2017.<br>Ming Huang, <strong>Yue Lu</strong>, Li-Ping Pang and Zun-Quan Xia</p></dd>
+</dl>  
+
+<h2>2016</h2>
+<dl>
+<dt><a href="https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251">A sequential convex program approach to an inverse linear semidefinite programming problem</a></dt>
+<dd><p>Asia Pacific Journal of Operational Research, Vol. 33, No. 4, 1650025, 2016.<br>Jia Wu, Yi Zhang, Li-Wei Zhang and <strong>Yue Lu</strong></p></dd>
+</dl>  
+
+
   <li>
     <p><strong>Yue Lu</strong>, Ying-En Ge and Li-Wei Zhang, <a href="http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317">An alternating direction method for solving a class of inverse semi-definite quadratic programming problems</a>, Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.</p>
   </li>
