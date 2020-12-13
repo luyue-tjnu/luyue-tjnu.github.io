@@ -19,7 +19,7 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>发表论文</h1>
+<h1>会议信息</h1>
 
 <table border="0">
   <tr>
