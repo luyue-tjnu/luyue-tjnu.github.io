@@ -9,7 +9,7 @@
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">卢越</div>
+<div class="menu-category">  </div>
 <div class="menu-item"><a href="indextest.html" class="current">主页</a></div>
 <div class="menu-item"><a href="publications.html">发表文章</a></div>
 <div class="menu-item"><a href="publications.html">技术报告</a></div>
