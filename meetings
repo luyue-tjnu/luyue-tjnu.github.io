@@ -1,3 +1,26 @@
+<head>
+<BASE href="Yue Lu" />  
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="boyd.css" type="text/css" />
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">  </div>
+<div class="menu-item"><a href="indextest.html" class="current">主    页</a></div>
+<div class="menu-item"><a href="publications.html">发表文章</a></div>
+<div class="menu-item"><a href="publications.html">技术报告</a></div>
+<div class="menu-item"><a href="meeting.html">会议信息</a></div>
+<div class="menu-category">课程信息</div>
+<div class="menu-item"><a href="optimization.html">最优化方法</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>发表论文</h1>
+
 <table border="0">
   <tr>
     <th>参会时间</th>
