@@ -34,8 +34,9 @@
 主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
 <h2>个人简介</h2>
 <h3>研究方向</h3>
-<p>:锥优化、矩阵优化、逆问题算法<br />
-学术兼职: SIAM会员、Mathmatical Reviews评论员、中国运筹学会会员、天津数学会会员<br /></p>
+<p>锥优化、矩阵优化、逆问题算法<br /></p>
+<h3>学术兼职</h3>  
+<p>SIAM会员、Mathmatical Reviews评论员、中国运筹学会会员、天津数学会会员<br /></p>
 <h2>工作经历 &amp; 教育经历</h2>
 <ul>
 <li><p><b>讲师</b> (2015.6-  )<br />
