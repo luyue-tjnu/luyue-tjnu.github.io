@@ -76,7 +76,7 @@
 
 <h2>2015</h2>
 <dl>
-<dt><a href="https://link.springer.com/article/10.1007/s10589-015-9757-1">The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem</a></dt>
+<dt><a href="https://link.springer.com/article/10.1007/s10589-015-9757-1">The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue<br>problem</a></dt>
 <dd><p>Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.<br><strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
 
 <dt><a href="https://link.springer.com/article/10.1186/s13660-015-0759-4">A smoothing approach for solving transportation problem with road toll pricing and capacity expansions</a></dt>
