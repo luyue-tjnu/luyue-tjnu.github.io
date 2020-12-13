@@ -31,7 +31,7 @@
 <p>天津市西青区宾水西道393号, 300387<br />
 电话: +86-22-2376-6366<br />
 邮箱: <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
-主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/index</a></p>
+英文主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/index</a></p>
 <h2>个人简介</h2>
 <h3>研究方向</h3>
 <p>锥优化、矩阵优化、逆问题算法<br /></p>
