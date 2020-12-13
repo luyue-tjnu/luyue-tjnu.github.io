@@ -9,48 +9,49 @@
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">Yue Lu</div>
-<div class="menu-item"><a href="indextest.html" class="current">Home</a></div>
-<div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="meeting.html">Meetings</a></div>
-<div class="menu-category">Teaching</div>
-<div class="menu-item"><a href="optimization.html">Optimization Methods</a></div>
+<div class="menu-category">卢越</div>
+<div class="menu-item"><a href="indextest.html" class="current">主页</a></div>
+<div class="menu-item"><a href="publications.html">发表文章</a></div>
+<div class="menu-item"><a href="publications.html">技术报告</a></div>
+<div class="menu-item"><a href="meeting.html">会议信息</a></div>
+<div class="menu-category">课程信息</div>
+<div class="menu-item"><a href="optimization.html">最优化方法</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Yue Lu</h1>
+<h1>卢越</h1>
 </div>
 <table class="imgtable"><tr><td>
 <img src="zhengjianzhao.jpg" alt="150px" width="150px" />&nbsp;</td>
 <td align="left"><p>Yue Lu<br />
-<a href="http://sxkx.tjnu.edu.cn/">School of Mathematical Sciences</a><br />
-<a href="http://www.tjnu.edu.cn/">Tianjin Normal University</a></p>
+<a href="http://sxkx.tjnu.edu.cn/">数学科学学院</a><br />
+<a href="http://www.tjnu.edu.cn/">天津师范大学</a></p>
 </td></tr></table>
-<h2>Contact</h2>
-<p>393 Binshui West Road, Xiqing District, Tianjin, 300387, China<br />
-Tel: +86-22-2376-6366<br />
-<a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
-<a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
+<h2>联系方式</h2>
+<p>天津市西青区宾水西道393号, 300387<br />
+电话: +86-22-2376-6366<br />
+邮箱: <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
+主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
 
-<h2>Research experience &amp; Education</h2>
+<h2>工作经历 &amp; 教育经历</h2>
 <ul>
-<li><p><b>Lecturer</b> (2015.6-  )<br />
-Tianjin Normal University</p>
+<li><p><b>讲师</b> (2015.6-  )<br />
+天津师范大学</p>
 </li>
-<li><p><b>Postdoc</b> (2017.9-2018.8)<br />
-Department of Mathematics, National Taiwan Normal University</p>
+<li><p><b>博士后</b> (2017.9-2018.8)<br />
+台湾师范大学理学院数学系</p>
 </li>
-<li><p><b>Assistant</b> (2010.8-2011.8)<br />
-Tianjin University RenAi College</p>
+<li><p><b>助教</b> (2010.8-2011.8)<br />
+天津大学仁爱学院 College</p>
 </li>
-<li><p><b>Ph.D in Operations Research and Control Theory</b> (2011.9-2015.6)<br />
-School of Mathematical Sciences, Dalian University of Technology</p>
+<li><p><b>理学博士，运筹学与控制论专业</b> (2011.9-2015.6)<br />
+大连理工大学数学科学学院</p>
 </li>
-<li><p><b>M.S in Computational Mathematics</b> (2007.9-2010.6)<br />
-School of Mathematical Sciences, Soochow University</p>
+<li><p><b>理学硕士，计算数学</b> (2007.9-2010.6)<br />
+苏州大学数学科学学院</p>
 </li>
-<li><p><b>B.S in Information and Computational Science</b> (2003.9-2007.6)<br />
-School of Mathematical Sciences, Soochow University</p>
+<li><p><b>理学学士，信息与计算科学</b> (2003.9-2007.6)<br />
+苏州大学数学科学学院</p>
 </li>
 </ul>
 <div id="footer">
