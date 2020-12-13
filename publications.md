@@ -24,14 +24,15 @@
 <dl>
 <dt><a href="http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf">Construction of merit functions for ellipsoidal cone complementarity problem</a></dt>
 <dd><p>Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.<br>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+  
+<dt><a href="http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf">Smooth analysis on cone function associated with ellipsoidal cone</a></dt>
+<dd><p>Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+
+<dt><a href="https://www.inderscience.com/info/inarticle.php?artid=104226">A perturbation-based approach for continuous network design problem with link capacity expansion</a></dt>
+<dd><p International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
+
 </dl>
 
-  <li>
-    <p><strong>Yue Lu</strong> and Jein-Shan Chen, <a href="http://math.ntnu.edu.tw/~jschen/Papers/LC2020-JNCA.pdf">Smooth analysis on cone function associated with ellipsoidal cone</a>, Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.</p>
-  </li>
-  <li>
-    <p>Robert Ebihart Msigwa, <strong>Yue Lu</strong> and Li-Wei Zhang, <a href="https://www.inderscience.com/info/inarticle.php?artid=104226">A perturbation-based approach for continuous network design problem with link capacity expansion</a>, International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.</p>
-  </li>
   <li>
     <p><strong>Yue Lu</strong>, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi, <a href="https://doi.org/10.1007/s10898-019-00845-3">The decompositions with respect to two core non-symmetric cones</a>, Journal of Global Optimization, Vol.76, No. 1, pp. 155-188, 2020.</p>
   </li>
