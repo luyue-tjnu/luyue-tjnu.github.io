@@ -55,7 +55,7 @@
 <dt><a href="http://www.ybook.co.jp/online2/jncav19-8.html">On the self-duality and homogeneity of ellipsoidal cones</a></dt>
 <dd><p>Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
   
-<dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition,<br>nonsmooth analysis, and projections onto nonsymmetric cones</a></dt>
+<dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition,nonsmooth analysis,<br>and projections onto nonsymmetric cones</a></dt>
 <dd><p>Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.<br>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
 </dl>  
 
