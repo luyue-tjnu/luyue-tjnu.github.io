@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="boyd.css" type="text/css" />
+<title>Yue Lu </title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -12,12 +13,9 @@
 <div class="menu-category">Yue Lu</div>
 <div class="menu-item"><a href="indextest.html" class="current">Home</a></div>
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="bio.html">Biography</a></div>
-<div class="menu-category">Research</div>
 <div class="menu-item"><a href="papers.html">Papers</a></div>
-<div class="menu-item"><a href="software.html">Software</a></div>
 <div class="menu-category">Classes</div>
-<div class="menu-item"><a href="http://stanford.edu/class/engr108/">ENGR108</a></div>
+<div class="menu-item"><a href="optimization.html">Optimization Methods</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
@@ -34,13 +32,7 @@
 Tel: +86-22-2376-6366<br />
 <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
 <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
-<h2>Schedule</h2>
-<p>Teaching schedule 2020&ndash;21:
-<a href="https://stanford.edu/class/engr108/">ENGR108</a> (formerly known as 
-<a href="https://ee103.stanford.edu">EE103/CME103</a>) 
-(Autumn).<br />
-<h2>Summary of my research</h2>
-<p> </p>
+
 <h2>Research experience &amp; Education</h2>
 <ul>
 <li><p><b>Lecturer</b> (2015.6-  )<br />
