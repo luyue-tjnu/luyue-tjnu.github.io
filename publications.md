@@ -43,7 +43,7 @@
 <dt><a href="https://www.tandfonline.com/doi/full/10.1080/01630563.2018.1552965">No gap second-order optimality conditions for circular conic programs</a></dt>
 <dd><p>Numerical Functional Analysis and Optimization, Vol.40, No. 10, pp. 1113-1135, 2019.<br>Yue Lu</strong>, Jein-Shan Chen and Ning Zhang</p></dd>
 
-<dt><a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2018094">A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs and its applications to bilevel problems</a></dt>
+<dt><a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2018094">A smoothing augmented Lagrangian method for nonconvex, nonsmooth constrained programs <br>and its applications to bilevel problems</a></dt>
 <dd><p>Journal of Industrial and Management Optimization, Vol.15, No. 3, pp. 1241-1261, 2019.<br>Qing-Song Duan, Meng-Wei Xu, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
 
 <dt><a href="http://www.ybook.co.jp">The variational geometry, projection expression and decomposition associated with ellipsoidal cones</a></dt>
