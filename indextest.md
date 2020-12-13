@@ -13,6 +13,7 @@
 <div class="menu-item"><a href="indextest.html" class="current">主    页</a></div>
 <div class="menu-item"><a href="publications.html">发表文章</a></div>
 <div class="menu-item"><a href="technicalreport.html">技术报告</a></div>
+<div class="menu-item"><a href="project.html">基金项目</a></div>  
 <div class="menu-item"><a href="meeting.html">会议信息</a></div>
 <div class="menu-category">课程信息</div>
 <div class="menu-item"><a href="optimization.html">最优化方法</a></div>
@@ -36,12 +37,6 @@
 <p>锥优化、矩阵优化、逆问题算法<br /></p>
 <h3>学术兼职</h3>  
 <p>SIAM会员、Mathmatical Reviews评论员、中国运筹学会会员、天津数学会会员<br /></p>
-<h3>基金项目</h3>  
-<p>2018/09-2022/12 参与, 叠层衍射成像的快速盲重建算法及其三维成像, 国家自然科学基金-面上基金 (No. 11871372), 在研<br>
-2018/04-2021/03 参与, 稀疏表示驱动的相位恢复快速成像算法研究, 天津市应用基础研究项目-面上基金 (No. 18JCYBJC16600), 在研<br>
-2017/01-2019/12 主持, 稀疏矩阵锥约束优化问题的最优化理论与数值算法, 国家自然科学基金-青年基金 (No. 11601389), 结题<br>
-2016/01-2018/12 主持, 逆矩阵优化问题的算法设计, 天津师范大学博士基金 (No. 52XB1513), 结题<br>
-2014/01-2016/12 参与, 半定参数广义方程与半定锥均衡约束数学规划问题, 国家自然科学基金-青年基金 (No. 11301049), 结题<br /></p>  
 <h3>荣誉奖励</h3>  
 <p>天津市“131”创新型第三层次人才、天津市数学会青年学术奖三等奖、辽宁省自然科学学术成果奖三等奖<br>天津师范大学优秀班主任、数学科学学院青年教师基本功竞赛院级三等奖</p>
 <h2>工作经历 &amp; 教育经历</h2>
