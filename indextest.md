@@ -12,8 +12,8 @@
 <div class="menu-category">  </div>
 <div class="menu-item"><a href="indextest.html" class="current">主    页</a></div>
 <div class="menu-item"><a href="publications.html">发表文章</a></div>
-<div class="menu-item"><a href="technicalreport.html">技术报告</a></div>
-<div class="menu-item"><a href="projects.html">基金项目</a></div>  
+<div class="menu-item"><a href="technicalreports.html">技术报告</a></div>
+<div class="menu-item"><a href="projects.html">基金项目</a></div>
 <div class="menu-item"><a href="meetings.html">会议信息</a></div>
 <div class="menu-category">课程信息</div>
 <div class="menu-item"><a href="optimization.html">最优化方法</a></div>
