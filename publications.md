@@ -56,7 +56,7 @@
 <dd><p>Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
   
 <dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones</a></dt>
-<dd><p>Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.<br><strong>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
+<dd><p>Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.<br>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
 </dl>  
 
 <h2>2017</h2>
@@ -69,31 +69,38 @@
 <dl>
 <dt><a href="https://www.worldscientific.com/doi/abs/10.1142/S0217595916500251">A sequential convex program approach to an inverse linear semidefinite programming problem</a></dt>
 <dd><p>Asia Pacific Journal of Operational Research, Vol. 33, No. 4, 1650025, 2016.<br>Jia Wu, Yi Zhang, Li-Wei Zhang and <strong>Yue Lu</strong></p></dd>
+  
+<dt><a href="http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317">An alternating direction method for solving a class of inverse semi-definite quadratic programming problems</a></dt>
+<dd><p>Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.<br><strong>Yue Lu</strong>, Ying-En Ge and Li-Wei Zhang</p></dd>
 </dl>  
 
+<h2>2015</h2>
+<dl>
+<dt><a href="https://link.springer.com/article/10.1007/s10589-015-9757-1">The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem</a></dt>
+<dd><p>Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.<br><strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
 
-  <li>
-    <p><strong>Yue Lu</strong>, Ying-En Ge and Li-Wei Zhang, <a href="http://www.aimsciences.org/article/doi/10.3934/jimo.2016.12.317">An alternating direction method for solving a class of inverse semi-definite quadratic programming problems</a>, Journal of Industrial and Management Optimization, Vol. 12, No. 1, pp. 317-336, 2016.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong> and Li-Wei Zhang, <a href="https://link.springer.com/article/10.1007/s10589-015-9757-1">The augmented Lagrangian method based on the APG strategy for an inverse damped gyroscopic eigenvalue problem</a>, Computational Optimization and Applications, Vol. 62, No. 3, pp. 815-850, 2015.</p>
-  </li>
-  <li>
-    <p>Robert Ebihart Msigwa, <strong>Yue Lu</strong>, Ying-En Ge and Li-Wei Zhang, <a href="https://link.springer.com/article/10.1186/s13660-015-0759-4">A smoothing approach for solving transportation problem with road toll pricing and capacity expansions</a>, Journal of Inequalities and Applications, 2015:237, 2015.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong>, Jia Wu and Li-Wei Zhang, <a href="https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235">A smoothing majorization method for l(2)(2)-l(p)(p) matrix minimization</a>, Optimization Methods &amp; Software, Vol. 30, No. 4, pp. 1-24, 2015.</p>
-  </li>
-  <li>
-    <p>Robert Ebihart Msigwa, <strong>Yue Lu</strong>, Xian-Tao Xiao and Li-Wei Zhang, <a href="http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135">A perturbation-based approach for continuous network design problem with emissions</a>, Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.</p>
-  </li>
-  <li>
-    <p><strong>卢越</strong>, 张继宏, 张立卫, <a href="http://www.ort.shu.edu.cn/CN/Y2014/V18/I2/1">一类二次规划逆问题的交替方向数值方法</a>, 运筹学学报, 18卷, 第2期, 1-16, 2014.</p>
-  </li>
-  <li>
-    <p><strong>Yue Lu</strong> and Zhong-Wen Chen, <a href="https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637">A retrospective filter trust region algorithm for unconstrained optimization</a>, Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.</p>
-  </li>
-</ol>
+<dt><a href="https://link.springer.com/article/10.1186/s13660-015-0759-4">A smoothing approach for solving transportation problem with road toll pricing and capacity expansions</a></dt>
+<dd><p>Journal of Inequalities and Applications, 2015:237, 2015.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong>, Ying-En Ge and Li-Wei Zhang</p></dd>
+
+<dt><a href="https://www.tandfonline.com/doi/abs/10.1080/10556788.2014.967235">A smoothing majorization method for l(2)(2)-l(p)(p) matrix minimization</a></dt>
+<dd><p>Optimization Methods &amp; Software, Vol. 30, No. 4, pp. 1-24, 2015.<br><strong>Yue Lu</strong>, Jia Wu and Li-Wei Zhang</p></dd>
+
+<dt><a href="http://www.aimsciences.org/article/doi/10.3934/naco.2015.5.135">A perturbation-based approach for continuous network design problem with emissions</a></dt>
+<dd><p>Numerical Algebra, Control and Optimization, Vol. 5, No. 2, pp. 135-149, 2015.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong>, Xian-Tao Xiao and Li-Wei Zhang</p></dd>
+</dl>
+
+<h2>2014</h2>
+<dl>
+<dt><a href="http://www.ort.shu.edu.cn/CN/Y2014/V18/I2/1">一类二次规划逆问题的交替方向数值方法</a></dt>
+<dd><p>运筹学学报, 18卷, 第2期, 1-16, 2014.<br><strong>卢越</strong>, 张继宏, 张立卫</p></dd>
+</dl>
+
+<h2>2010</h2>
+<dl>
+<dt><a href="https://www.scirp.org/journal/PaperInformation.aspx?PaperID=2637">A retrospective filter trust region algorithm for unconstrained optimization</a></dt>
+<dd><p>Applied Mathematics, Vol. 1, No. 3, pp. 179-188, 2010.<br><strong>Yue Lu</strong> and Zhong-Wen Chen</p></dd>
+</dl>
+
 <div id="footer">
 <div id="footer-text">
 </div>
