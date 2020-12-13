@@ -29,7 +29,7 @@
 <dd><p>Journal of Nonlinear and Convex Analysis, Vol. 21, No. 6, pp. 1327-1347, 2020.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
 
 <dt><a href="https://www.inderscience.com/info/inarticle.php?artid=104226">A perturbation-based approach for continuous network design problem with link capacity expansion</a></dt>
-<dd><p International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
+<dd><p>International Journal of Operational Research, Vol.37 No. 1, pp.105-134, 2020.<br>Robert Ebihart Msigwa, <strong>Yue Lu</strong> and Li-Wei Zhang</p></dd>
 
 <dt><a href="https://doi.org/10.1007/s10898-019-00845-3">The decompositions with respect to two core non-symmetric cones</a></dt>
 <dd><p>Journal of Global Optimization, Vol.76, No. 1, pp. 155-188, 2020.<br><strong>Yue Lu</strong>, Ching-Yu Yang, Jein-Shan Chen and Hou-Duo Qi</p></dd>
@@ -55,7 +55,7 @@
 <dt><a href="http://www.ybook.co.jp/online2/jncav19-8.html">On the self-duality and homogeneity of ellipsoidal cones</a></dt>
 <dd><p>Journal of Nonlinear and Convex Analysis, Vol.19, No. 8, pp. 1355-1367, 2018.<br><strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
   
-<dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition, nonsmooth analysis, and projections onto nonsymmetric cones</a></dt>
+<dt><a href="http://www.ybook.co.jp">From symmetric cone optimization to nonsymmetric cone optimization: Spectral decomposition,<br>nonsmooth analysis, and projections onto nonsymmetric cones</a></dt>
 <dd><p>Pacific Journal of Optimization, Vol. 14, No. 3, pp. 399-419, 2018.<br>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
 </dl>  
 
