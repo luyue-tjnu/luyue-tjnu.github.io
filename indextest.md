@@ -23,7 +23,7 @@
 </div>
 <table class="imgtable"><tr><td>
 <img src="zhengjianzhao.jpg" alt="150px" width="150px" />&nbsp;</td>
-<td align="left"><p>Yue Lu<br />
+<td align="left"><p>卢 越<br />
 <a href="http://sxkx.tjnu.edu.cn/">数学科学学院</a><br />
 <a href="http://www.tjnu.edu.cn/">天津师范大学</a></p>
 </td></tr></table>
@@ -32,7 +32,8 @@
 电话: +86-22-2376-6366<br />
 邮箱: <a href="mailto:jinjin403@sina.com">jinjin403@sina.com</a><br />
 主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
-
+<h2>个人简介</h2>
+研究方向：锥优化、矩阵优化、逆问题算法等，在本领域重要期刊如Computational Optimization and Applications、Journal of Global Optimization、Optimization、Numerical Functional Analysis and Optimization、Journal of Industrial and Management Optimization、Pacific Journal of Optimization 、Journal of Nonlinear and Convex Analysis等杂志发表学术论文二十篇，其中参与撰写的学术论文《A space decomposition scheme for maximum eigenvalue functions and its applications》荣获辽宁省自然科学学术成果奖三等奖；现主持完成国家自然科学基金青年基金一项、天津师范大学博士基金一项、参与完成国家自然科学基金青年基金一项，参与在研国家自然科学基金面上基金和天津市应用基础研究项目面上基金各一项；SIAM会员、Mathmatical Reviews评论员、中国运筹学会会员、天津数学会会员；2016年入选天津市131创新人才（第三层次）并荣获天津师范大学优秀班主任、2017年荣获第二届天津市数学会青年学术奖三等奖和参加天津师范大学第15期中青年骨干教师培训班学习并获得结业证书。
 <h2>工作经历 &amp; 教育经历</h2>
 <ul>
 <li><p><b>讲师</b> (2015.6-  )<br />
