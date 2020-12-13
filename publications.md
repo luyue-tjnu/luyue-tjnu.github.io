@@ -24,7 +24,7 @@
 <dl>
 <dt><a href="http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf">Construction of merit functions for ellipsoidal cone complementarity problem</a></dt>
 <dd><p>Xin-He Miao, <strong>Yue Lu</strong> and Jein-Shan Chen</p></dd>
-<dd>Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.</p></dd>
+<dd><p>Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.</p></dd>
 </dl>
 
   <li>
