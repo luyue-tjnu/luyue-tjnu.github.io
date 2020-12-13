@@ -11,9 +11,9 @@
 <td id="layout-menu">
 <div class="menu-category">Yue Lu</div>
 <div class="menu-item"><a href="indextest.html" class="current">Home</a></div>
-<div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="papers.html">Papers</a></div>
-<div class="menu-category">Classes</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="meeting.html">Meetings</a></div>
+<div class="menu-category">Teaching</div>
 <div class="menu-item"><a href="optimization.html">Optimization Methods</a></div>
 </td>
 <td id="layout-content">
