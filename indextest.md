@@ -42,13 +42,13 @@
 <li><p><b>讲师</b> (2015.6-  )<br />
 天津师范大学</p>
 </li>
-<li><p><b>博士后</b> (2017.9-2018.8) (<b>导师: 陈界山</b>)<br />
+<li><p><b>博士后</b> (2017.9-2018.8) (<b>导师: <a href="http://math.ntnu.edu.tw/~jschen">陈界山</a></b>)<br />
 台湾师范大学理学院数学系</p>
 </li>
 <li><p><b>助教</b> (2010.8-2011.8)<br />
 天津大学仁爱学院 College</p>
 </li>
-<li><p><b>理学博士，运筹学与控制论专业</b> (2011.9-2015.6) (<b>导师: <a href="http://faculty.dlut.edu.cn/lwzhang/zh_CN/index.htm">张立卫</b>)<br />
+<li><p><b>理学博士，运筹学与控制论专业</b> (2011.9-2015.6) (<b>导师: <a href="http://faculty.dlut.edu.cn/lwzhang/zh_CN/index.htm">张立卫</a></b>)<br />
 大连理工大学数学科学学院</p>
 </li>
 <li><p><b>理学硕士，计算数学</b> (2007.9-2010.6) (<b>导师: 陈中文</b>)<br />
