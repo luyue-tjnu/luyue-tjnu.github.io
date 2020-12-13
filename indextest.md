@@ -24,7 +24,7 @@
 <table class="imgtable"><tr><td>
 <img src="zhengjianzhao.jpg" alt="200px" width="200px" />&nbsp;</td>
 <td align="left"><p>卢 越<br />
-<a href="http://sxkx.tjnu.edu.cn/">数学科学学院</a>，<a href="http://www.tjnu.edu.cn/">天津师范大学</a></p>
+<a href="http://sxkx.tjnu.edu.cn/">数学科学学院</a><br><a href="http://www.tjnu.edu.cn/">天津师范大学</a></p>
 </td></tr></table>
 <h2>联系方式</h2>
 <p>天津市西青区宾水西道393号, 300387<br />
@@ -33,9 +33,9 @@
 主页: <a href="https://luyue-tjnu.github.io/index2">https://luyue-tjnu.github.io/indextest</a></p>
 <h2>个人简介</h2>
 <h3>研究方向</h3>
-<p>锥优化、矩阵优化、逆问题算法<br /></p>
+<p>锥优化<br>矩阵优化<br>逆问题算法<br /></p>
 <h3>学术兼职</h3>  
-<p>SIAM会员、Mathmatical Reviews评论员、中国运筹学会会员、天津数学会会员<br /></p>
+<p>SIAM会员<br>Mathmatical Reviews评论员<br>中国运筹学会会员<br>天津数学会会员<br /></p>
 <h3>荣誉奖励</h3>  
 <p>天津市“131”创新型第三层次人才<br>天津市数学会青年学术奖三等奖<br>辽宁省自然科学学术成果奖三等奖<br>天津师范大学优秀班主任<br>数学科学学院青年教师基本功竞赛院级三等奖</p>
 <h2>工作经历 &amp; 教育经历</h2>
