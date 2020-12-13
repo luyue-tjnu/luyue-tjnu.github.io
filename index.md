@@ -23,7 +23,7 @@
 <h1>卢越</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="zhengjianzhao.jpg" alt="200px" width="200px" />&nbsp;</td>
+<img src="zhaopiao.jpg" alt="300px" width="300px" />&nbsp;</td>
 <td align="left"><p>卢 越<br />
 <a href="http://sxkx.tjnu.edu.cn/">数学科学学院</a><br><a href="http://www.tjnu.edu.cn/">天津师范大学</a></p>
 </td></tr></table>
