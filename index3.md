@@ -31,7 +31,9 @@
 
 ## 工作经历
 
-- 2015/06-        讲师, 天津师范大学数学科学学院
+- 2021/01-        副教授, 天津师范大学数学科学学院
+
+- 2015/06-2020/12 讲师, 天津师范大学数学科学学院
 
 - 2010/08-2011/06 助教, 天津大学仁爱学院
 
@@ -102,9 +104,9 @@
 
 ## 发表文章
 
-1. Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal, to appear in Inverse Problems and Imaging, 2020.
+1. Jie Zhang, Yuping Duan, **Yue Lu**, Michael K. Ng and Huibin Chang, [Bilinear constraint based ADMM for mixed poisson-Gaussian noise removal](https://www.aimsciences.org/article/doi/10.3934/ipi.2020071), Inverse Problems and Imaging, Vol. 15, No. 2, pp. 339-366, 2021.
 
-2. Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, [A decomposition algorithm for the sums of the largest eigenvalues](https://www.tandfonline.com/doi/full/10.1080/01630563.2020.1813758), to appear in Numerical Functional Analysis and Optimization, 2020.
+2. Ming Huang, **Yue Lu**, Jin-Long Yuan and Yang Li, [A decomposition algorithm for the sums of the largest eigenvalues](https://www.tandfonline.com/doi/full/10.1080/01630563.2020.1813758), Numerical Functional Analysis and Optimization, Vol. 41, No. 16, pp. 1936-1969, 2020.
 
 3. Xin-He Miao, **Yue Lu** and Jein-Shan Chen, [Construction of merit functions for ellipsoidal cone complementarity problem](http://math.ntnu.edu.tw/~jschen/Papers/Merit-ECCP-PJO.pdf), Pacific Journal of Optimization, Vol. 16, No. 4, pp. 547-565, 2020.
 
